@@ -9,3 +9,6 @@ Las diferencias y sus usos, especialmente su diagramacion, chain of responsabili
 **¿Qué me falta reforzar?
 
 Saber como implementar cual y en que casos hacerlo, por ejemplo con decorator, strategy, builder y las fabricas
+
+### Diagrama ejercicio iterator
+![img.png](ejercicio10.png)
